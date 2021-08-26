@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/sastra.jpg);
+  background-size: cover;
+  height: 232px;
+  border-radius: 18px;
+}
+
+.card {
+  padding-top: 6rem;
+}
+
+h1 {
+  padding-inline-start: 1rem;
+  background-color: #3b3a38;
+  border-radius: 20px;
+  padding-top: 1rem;
+}
+
+.button {
+  position: relative;
+}
+
+footer {
+  background-color: #6e7371;
+  color: darkgray;
+}
